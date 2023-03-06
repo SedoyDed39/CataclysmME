@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5506b6a-1882-4daa-8dde-2a8ba70b40cd" name="Changes" comment="CataclysmME 0.0.0.1&#10;Тут короче всякие тестовые логики, приколюхи, ничего рабочего нет, не ищите. Все концепт, или прототип" />
+    <list default="true" id="b5506b6a-1882-4daa-8dde-2a8ba70b40cd" name="Changes" comment="CataclysmME 0.0.0.1&#10;Тут короче всякие тестовые логики, приколюхи, ничего рабочего нет, не ищите. Все концепт, или прототип">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
