@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5506b6a-1882-4daa-8dde-2a8ba70b40cd" name="Changes" comment="CataclysmME 0.0.0.1&#10;Тут короче всякие тестовые логики, приколюхи, ничего рабочего нет, не ищите. Все концепт, или прототип">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <changelist_data name="Sedoy" email="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sedoy" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -56,8 +63,26 @@
       <option name="project" value="LOCAL" />
       <updated>1678083912961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CataclysmME 0.0.0.1&#10;Тут короче всякие тестовые логики, приколюхи, ничего рабочего нет, не ищите. Все концепт, или прототип">
+      <created>1678085218985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678085218985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CataclysmME 0.0.0.1&#10;Тут короче всякие тестовые логики, приколюхи, ничего рабочего нет, не ищите. Все концепт, или прототип" />
